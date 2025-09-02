@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @axelcastel
-- 👀 I’m interested in Powershell
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software as a service Administration and Project Management on IT Cloud-based industries
+- 🌱 I’m currently learning Git, Linux
+- 💞️ I’m looking to collaborate on IT Cloud-bases company in constant growth
 - 📫 How to reach me ...
 
 <!---
